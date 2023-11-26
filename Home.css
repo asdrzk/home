@@ -69,11 +69,10 @@
 @media (max-width: 575px) {
    .u-section-1 {
     background-position: 50% 94.23%;
-    background-image: url(images/web_bg_mob.jpg);
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 708px;
+    min-height: 715px;
   }
 
   .u-section-1 .u-text-1 {
